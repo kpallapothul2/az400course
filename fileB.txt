@@ -1,1 +1,2 @@
 this is fileB
+first change in fileB
